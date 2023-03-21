@@ -4,3 +4,4 @@ for i in range(int(input())):
 
 for i in sorted(num_list):
   print(i)
+ 

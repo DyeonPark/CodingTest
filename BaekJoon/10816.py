@@ -17,3 +17,6 @@ for i in find_list:
     result.append(str(0))
 
 print(' '.join(result))
+
+# 보다 적절한 방법의 풀이 링크 
+# https://aigong.tistory.com/396

@@ -5,7 +5,7 @@ from itertools import combinations
 N, K = map(int, input().split())
 nums = list(map(int, input().split()))
 
-# res = []
+# res = [] 
 res = set()
 for comb in combinations(nums, 3):
     # res.append(sum(comb))

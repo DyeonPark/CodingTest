@@ -1,4 +1,4 @@
-# solved : 30m
+# solved : 21m
 import sys
 input = sys.stdin.readline
 
